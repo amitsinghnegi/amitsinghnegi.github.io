@@ -327,7 +327,7 @@ html {
 }
 
 .myAvtar {
-  width: 29%;
+  width: 33%;
   justify-content: center !important;
   padding-top: 4rem !important;
   display: inline-block;
@@ -362,7 +362,7 @@ html {
   display: inline-block;
   width: 60%;
   color: white !important;
-  padding-top: 4rem !important;
+  padding-top: 2rem !important;
   padding-bottom: 20px !important;
   text-align: center;
   padding-left: 3rem !important;
@@ -825,10 +825,14 @@ html {
     width: 110%;
   }
 
+  #aboutWrap{
+    padding-left : 0;
+  }
+
   .myAvtar {
-    width: 35% !important;
+    width: 40% !important;
     padding: 0 !important;
-    padding-top: 3rem !important;
+    padding-top: 4rem !important;
   }
 
   #tech {
